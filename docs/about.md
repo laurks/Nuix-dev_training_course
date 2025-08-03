@@ -1,0 +1,3 @@
+# About This Course
+
+This training is designed for enterprise developers learning code-heavy platforms...
